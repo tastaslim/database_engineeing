@@ -1,2 +1,2 @@
-# database_engineeing
+# Database Engineering
 Fundamental of Databases
